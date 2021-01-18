@@ -9,8 +9,11 @@ Group members uses Slack and messages for communications and also using Zoom for
 ## Tools
 SQL, Python and using Tableau for Data visualizations
 
-## Link to the Google Slides
+## Presentation
 https://docs.google.com/presentation/d/1CLn6aMWFkfWZ_EBmw5tNoQWBXpHDvC8jLaq04usb684/edit?usp=sharing
+
+## Dashboard
+https://docs.google.com/presentation/d/1dkKnMS9PdWOnYIQ0ZZtfbRx3UqNOwxuxdaFpwCcaJWw/edit?usp=sharing
 
 ## Data Source
 Our dataset was taken from a Kaggle dataset with 70,000 plus data points that was uploaded a little less than two years ago. It contains thirteen columns (12 feature columns and the outcome column, cardio).  The original uploader is a researcher named Svetlana Ulianova.
