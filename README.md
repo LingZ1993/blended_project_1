@@ -1,7 +1,7 @@
 # Risk Factors for Cardiovascular disease
 
 ## Group Members: 
-Ling Zhang, Nick Guild, Cedric Larue and Teale Foster
+Nick Guild, Cedric Larue, Ling Zhang, and Teale Foster
 
 ## Communication Protocols
 Group members uses Slack and messages for communications and also using Zoom for group meetings. 
