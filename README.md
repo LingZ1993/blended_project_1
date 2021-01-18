@@ -9,5 +9,5 @@ Group members will be communicating through Slack and Zoom.
 ## Tools
 SQL, Python and using Tableau for Data visualizations
 
-## Data
-To be determined
+## Link to the Google Slides
+https://docs.google.com/presentation/d/1CLn6aMWFkfWZ_EBmw5tNoQWBXpHDvC8jLaq04usb684/edit?usp=sharing
