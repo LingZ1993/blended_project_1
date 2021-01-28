@@ -29,3 +29,10 @@ So it would be critical for us to gain more knowledge about this and therefore, 
 - We are hoping that, with the help of Machine Learning Models, we will be able to better predict what features would be the most critical concerns for people, higher predictability score would means that the features are more relative with CVDs, and therefore we can have a better idea on how to prevent getting CVD related diseases.  
 
 - We have four Machine Learning Models: Logistic Regression, SVM, Random Forest and Decision Tree. After doing the Ramdom Forest we have found out that among all of the features that we have tested so far, the ones with the highest level of predictability on the occurrence of heart disease were: Subject's age, Systolic Blood Pessure and Subject's body mass Index. Surprisingly, the ones that we thought could have higher scores doesn't show significant evidence, such as smoke or not, and drinking excessive alcoholic beverages and also level of exercise taken. 
+
+## Data Exploration
+<img src="Screenshots/heatmap.png">
+By analyzing above graph, we discover that age, weight, cholesterol, gluc are more correlated to cardio variable compared to other factors.
+
+<img src="Screenshots/age.png">
+With increase in age, the risk of getting cardiovascular disease increases. From above graph , we can see that people from age group 55-65 are more prone to cardiovascular diseases.
