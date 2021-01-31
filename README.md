@@ -12,7 +12,7 @@ SQL, Python and using Tableau for Data visualizations
 ## Presentation
 https://docs.google.com/presentation/d/1CLn6aMWFkfWZ_EBmw5tNoQWBXpHDvC8jLaq04usb684/edit?usp=sharing
 
-## Dashboard- Visualiz
+## Dashboard- Data Visualizations
 https://public.tableau.com/profile/nick.guild#!/vizhome/Tableau_book3_16121296188090/Cardio_Dashboard?publish=yes
 
 ## Data Source
