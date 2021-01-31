@@ -12,8 +12,8 @@ SQL, Python and using Tableau for Data visualizations
 ## Presentation
 https://docs.google.com/presentation/d/1CLn6aMWFkfWZ_EBmw5tNoQWBXpHDvC8jLaq04usb684/edit?usp=sharing
 
-## Dashboard
-https://docs.google.com/presentation/d/1dkKnMS9PdWOnYIQ0ZZtfbRx3UqNOwxuxdaFpwCcaJWw/edit?usp=sharing
+## Dashboard- Visualiz
+https://public.tableau.com/profile/nick.guild#!/vizhome/Tableau_book3_16121296188090/Cardio_Dashboard?publish=yes
 
 ## Data Source
 Our dataset was taken from a Kaggle dataset with 70,000 plus data points that was uploaded a little less than two years ago. It contains thirteen columns (12 feature columns and the outcome column, cardio).  The original uploader is a researcher named Svetlana Ulianova.
@@ -30,10 +30,11 @@ So it would be critical for us to gain more knowledge about this and therefore, 
 
 - We have four Machine Learning Models: Logistic Regression, SVM, Random Forest and Decision Tree. After doing the Ramdom Forest we have found out that among all of the features that we have tested so far, the ones with the highest level of predictability on the occurrence of heart disease were: Subject's age, Systolic Blood Pessure and Subject's body mass Index. Surprisingly, the ones that we thought could have higher scores doesn't show significant evidence, such as smoke or not, and drinking excessive alcoholic beverages and also level of exercise taken. 
 
-## Data Exploration
+## Data Exploration Phases
 <img src="Screenshots/Data_flowing_chart.png">
 Above shows our data flowing chart and the process that we process the data. 
 
+## Data Analysis
 <img src="Screenshots/heatmap.png">
 By analyzing above graph, we discover that age, weight, cholesterol, gluc are more correlated to cardio variable compared to other factors.
 
@@ -55,4 +56,11 @@ Cholesterol and gluc has more effect on CVDs than other elements, while it also 
 <img src="Screenshots/accuracy_scores_ml.png">
 We  used three methods: Logistic Regression, the Random Forest (and a tuned version of Random Forest), along with SVM; Logistic Regression has a score of .7128; Random Forest has an accuracy score of .729; SVM has an accuracy score of .7304. Therefore we say that the best fitted model for predicting cardiovascular disease is : “SVM”
 
+## Conclusion
+The factors that contribute to the development of Cardiovascular Disease are myriad.  These factors are comprised of those that’re easily measurable like blood pressure, and those that are not- genetic factors. 
+Lifestyle choices- whether one drinks, smokes, and is physically active (and to what degree) do not relate as strongly to the development of CVD as we had assumed at the onset.  In fact, they’re some of the least meaningful features we studied.
+Age is the strongest predictor of CVD.  As you get older, the likelihood of heart issues cropping up increases dramatically. 
 
+## Ideas for Further Exploration
+What ended up being most fascinating to us wasn’t what we could measure- but what we couldn’t.  Specifically one’s genetic makeup.  We believe this is the great known unknown when it comes to not only CVD, but medicine in general.  
+Access to data on individual’s hereditary would be a treasure trove of explorable information.  With it, we could look at individual genes and use similar machine learning models to help understand their relationship with heart disease. 
