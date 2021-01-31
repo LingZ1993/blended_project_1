@@ -31,8 +31,28 @@ So it would be critical for us to gain more knowledge about this and therefore, 
 - We have four Machine Learning Models: Logistic Regression, SVM, Random Forest and Decision Tree. After doing the Ramdom Forest we have found out that among all of the features that we have tested so far, the ones with the highest level of predictability on the occurrence of heart disease were: Subject's age, Systolic Blood Pessure and Subject's body mass Index. Surprisingly, the ones that we thought could have higher scores doesn't show significant evidence, such as smoke or not, and drinking excessive alcoholic beverages and also level of exercise taken. 
 
 ## Data Exploration
+<img src="Screenshots/Data_flowing_chart.png">
+Above shows our data flowing chart and the process that we process the data. 
+
 <img src="Screenshots/heatmap.png">
 By analyzing above graph, we discover that age, weight, cholesterol, gluc are more correlated to cardio variable compared to other factors.
 
 <img src="Screenshots/age.png">
 With increase in age, the risk of getting cardiovascular disease increases. From above graph , we can see that people from age group 55-65 are more prone to cardiovascular diseases.
+
+<img src="Screenshots/gender.png">
+Above, we can see that there are no clear relations between CVDs and gender. 
+
+<img src="Screenshots/height_weight.png">
+We can see that height has no effects on CVDs while weight does. 
+
+<img src="Screenshots/high_blood_pressure.png">
+Above visualization showing us that higher blood pressure will increase the risk of having CVDs. 
+
+<img src="Screenshots/different_variables.png">
+Cholesterol and gluc has more effect on CVDs than other elements, while it also showing that the less physically active you are, more likely you will have CVDs. 
+
+<img src="Screenshots/accuracy_scores_ml.png">
+We  used three methods: Logistic Regression, the Random Forest (and a tuned version of Random Forest), along with SVM; Logistic Regression has a score of .7128; Random Forest has an accuracy score of .729; SVM has an accuracy score of .7304. Therefore we say that the best fitted model for predicting cardiovascular disease is : “SVM”
+
+
